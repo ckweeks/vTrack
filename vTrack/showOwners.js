@@ -1,0 +1,1 @@
+﻿var x = ds.Owner.query('ID > 0');//x.toArray('firstName, lastName, fullName');x;

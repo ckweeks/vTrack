@@ -1,0 +1,1 @@
+﻿//allOwners = ds.Owner.query('ID > 0');//allOwners;//newDS.save(); newOwner = new ds.Owner();newOwner.firstName = 'Clark';newOwner.lastName = 'Weeks';//newOwner. = //newOwner. = //newOwner. = //newOwner. = //newOwner. = //newOwner. = newOwner.save();newOwner;//newOwner.firstName;//newOwner.fullName;

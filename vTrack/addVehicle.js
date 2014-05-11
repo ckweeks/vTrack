@@ -1,0 +1,1 @@
+﻿var x = ds.Owner.query('ID == 3');x = ds.Owner.query('fullName == "Clark Weeks"');//x.vehicles = {"make: 'Subaru',x;
